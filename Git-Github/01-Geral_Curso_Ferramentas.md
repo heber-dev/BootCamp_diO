@@ -48,4 +48,4 @@ Sistema de Controle de Versão Distribuído.
 Plataforma de hospedagem de código para controle de versão com Git, e colaboração.
 
 ##
-<div align="center">Changed by Shark <a href="https://github.com/heber-dev">Shark</a>.</div>
+<div align="center">Changed by <a href="https://github.com/heber-dev">Shark</a>.</div>

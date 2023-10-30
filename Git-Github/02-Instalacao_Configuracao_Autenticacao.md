@@ -55,4 +55,4 @@ $ git config --global init.defaultBranch main
 ```
 
 ##
-<div align="center">Changed by Shark <a href="https://github.com/heber-dev">Shark</a>.</div>
+<div align="center">Changed by <a href="https://github.com/heber-dev">Shark</a>.</div>
