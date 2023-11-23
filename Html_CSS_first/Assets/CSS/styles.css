@@ -42,7 +42,7 @@ section {
   font-weight: 900;
   text-transform: uppercase;
   color: transparent;
-  background: -webkit-linear-gradient(#33A8DB, #1472B7);
+  background: -webkit-linear-gradient(#1472B7, #33A8DB);
   background-clip: text;
   -webkit-background-clip: text;
 }
